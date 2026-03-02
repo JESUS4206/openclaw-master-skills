@@ -5,6 +5,30 @@ Updated every Monday.
 
 ---
 
+## [v0.2.0] — 2026-03-02
+
+### 🚀 大规模扩充：从 21 → 127 个精选 Skills
+
+新增 106 个 skills，覆盖：AI工具、生产力、营销、前端、移动端、后端、数据库、认证、DevOps、Web自动化等分类。
+
+| 分类 | 数量 |
+|---|---|
+| AI Tools | 18 |
+| Productivity | 15 |
+| Marketing | 23 |
+| Frontend | 29 |
+| Mobile | 13 |
+| Backend | 9 |
+| Database | 2 |
+| Auth | 2 |
+| DevOps | 12 |
+| Web Automation | 3 |
+| Other | 1 |
+
+完整列表见 [RELEASES.md](RELEASES.md)。
+
+---
+
 ## [Week 1] — 2026-03-02 (Initial Fill)
 
 ### 🎉 首次批量填充 — 20 个 Skills
@@ -32,6 +56,30 @@ Updated every Monday.
 | `vercel-react-best-practices` | React and Next.js performance optimization guidelines from Vercel Engineering. T | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | `web-design-guidelines` | Review UI code for Web Interface Guidelines compliance. Use when asked to "revie | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) |
 | `supabase-postgres-best-practices` | Postgres performance optimization and best practices from Supabase. Use this ski | [supabase/agent-skills](https://github.com/supabase/agent-skills) |
+
+---
+
+## [v0.2.0] — 2026-03-02
+
+### 🚀 大规模扩充：从 21 → 127 个精选 Skills
+
+新增 106 个 skills，覆盖：AI工具、生产力、营销、前端、移动端、后端、数据库、认证、DevOps、Web自动化等分类。
+
+| 分类 | 数量 |
+|---|---|
+| AI Tools | 18 |
+| Productivity | 15 |
+| Marketing | 23 |
+| Frontend | 29 |
+| Mobile | 13 |
+| Backend | 9 |
+| Database | 2 |
+| Auth | 2 |
+| DevOps | 12 |
+| Web Automation | 3 |
+| Other | 1 |
+
+完整列表见 [RELEASES.md](RELEASES.md)。
 
 ---
 
