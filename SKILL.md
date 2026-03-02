@@ -1,43 +1,45 @@
 ---
 name: openclaw-master-skills
-description: A curated collection of 127+ best OpenClaw skills from across the ecosystem — including AI tools, productivity, marketing, frontend, mobile, backend, database, auth, DevOps, and web automation skills. Sourced weekly from skills.sh, GitHub, and ClaWHub. Use when you want to install a comprehensive skill pack for your OpenClaw agent. Powered by MyClaw.ai.
+description: A curated index of 127+ high-quality OpenClaw skills sourced from the community — including skills for AI tools, productivity, marketing, frontend, mobile, backend, database, auth, DevOps, and web automation. Install individual skills via ClaWHub or clone the full collection from GitHub. Updated weekly by the MyClaw.ai team.
+metadata: {"openclaw": {"homepage": "https://myclaw.ai", "requires": {"env": []}}}
 ---
 
 # OpenClaw Master Skills
 
-A curated, weekly-updated collection of the best OpenClaw skills from across the ecosystem.
+A weekly-updated, curated index of the best OpenClaw-compatible skills from across the open source ecosystem.
 
-## What's Included
+## What's Inside
 
-127+ skills across 11 categories:
+127+ skills across 11 categories, sourced from trusted publishers:
 
-- **AI Tools** (18) — PDF, DOCX, XLSX, PPTX, MCP builder, canvas design, and more from Anthropic
-- **Productivity** (15) — Brainstorming, debugging, TDD, parallel agents, code review from obra/superpowers
-- **Marketing** (23) — SEO, copywriting, content strategy, CRO, paid ads from coreyhaines31
-- **Frontend** (29) — Vercel, Next.js, Vue, Vite, Tailwind, React Native, AI SDK
-- **Mobile** (13) — Expo skills for React Native development
+- **AI Tools** (18) — PDF, DOCX, XLSX, PPTX, MCP builder, canvas design (Anthropic)
+- **Productivity** (15) — Brainstorming, TDD, parallel agents, code review (obra)
+- **Marketing** (23) — SEO, copywriting, CRO, paid ads, content strategy
+- **Frontend** (29) — Next.js, Vue, Vite, React, Tailwind, AI SDK (Vercel, antfu)
+- **Mobile** (13) — Expo / React Native skills
 - **Backend** (9) — API design, Node.js, FastAPI, architecture patterns
 - **Database** (2) — PostgreSQL, Supabase
-- **Auth** (2) — better-auth best practices
-- **DevOps** (12) — Git, CI/CD, GitHub Copilot workflows
-- **Web Automation** (3) — Browser-use, Firecrawl, website auditing
+- **Auth** (2) — better-auth
+- **DevOps** (12) — Git workflows, CI/CD, GitHub Copilot
+- **Web Automation** (3) — Browser-use, Firecrawl, site auditing
 - **Other** (1) — React Doctor
 
-## How to Use
+## How to Install
 
-Install individual skills:
+Install an individual skill:
 ```bash
 clawhub install <skill-name>
 ```
 
-Or clone the full collection:
+Clone the full collection manually:
 ```bash
 git clone https://github.com/LeoYeAI/openclaw-master-skills.git
-cp -r openclaw-master-skills/skills/. ~/.openclaw/workspace/skills/
+cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 ```
 
-## Updates
+## Source
 
-Updated every Monday. See [RELEASES.md](https://github.com/LeoYeAI/openclaw-master-skills/blob/main/RELEASES.md) for full release history.
+All skills in this collection retain their original authors and licenses.
+Full index and release notes: https://github.com/LeoYeAI/openclaw-master-skills
 
 > Powered by [MyClaw.ai](https://myclaw.ai)
