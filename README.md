@@ -22,6 +22,17 @@
 
 ---
 
+## 🚀 How to Install
+
+```bash
+# Install a single skill via ClaWHub
+clawhub install <skill-name>
+
+# Or clone and copy manually
+git clone https://github.com/LeoYeAI/openclaw-master-skills.git
+cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
+```
+
 ## 📦 Skill Index
 
 | Skill | Description | Category | Source | Added |
@@ -157,17 +168,6 @@
 > More skills added every Monday. [Submit yours →](../../issues/new?template=submit-skill.md)
 
 ---
-
-## 🚀 How to Install
-
-```bash
-# Install a single skill via ClaWHub
-clawhub install <skill-name>
-
-# Or clone and copy manually
-git clone https://github.com/LeoYeAI/openclaw-master-skills.git
-cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
-```
 
 ## 📬 Submit a Skill
 

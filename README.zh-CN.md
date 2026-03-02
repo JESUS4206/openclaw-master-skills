@@ -22,16 +22,6 @@
 
 ---
 
-## 📦 Skills 目录
-
-| Skill | 说明 | 分类 | 来源 | 收录时间 |
-|---|---|---|---|---|
-| [`openclaw-guardian`](skills/openclaw-guardian/) | 🛡️ Gateway 守护进程，支持自动修复和 git 回滚 | DevOps | [GitHub](https://github.com/LeoYeAI/openclaw-guardian) | 2026-03-02 |
-
-> 每周一新增。[提交你的 Skill →](../../issues/new?template=submit-skill.md)
-
----
-
 ## 🚀 安装方式
 
 ```bash
@@ -42,6 +32,16 @@ clawhub install <skill-name>
 git clone https://github.com/LeoYeAI/openclaw-master-skills.git
 cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/
 ```
+
+## 📦 Skills 目录
+
+| Skill | 说明 | 分类 | 来源 | 收录时间 |
+|---|---|---|---|---|
+| [`openclaw-guardian`](skills/openclaw-guardian/) | 🛡️ Gateway 守护进程，支持自动修复和 git 回滚 | DevOps | [GitHub](https://github.com/LeoYeAI/openclaw-guardian) | 2026-03-02 |
+
+> 每周一新增。[提交你的 Skill →](../../issues/new?template=submit-skill.md)
+
+---
 
 ## 📬 提交 Skill
 
